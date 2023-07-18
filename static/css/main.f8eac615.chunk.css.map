@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,sBAIG,cAAe","file":"main.f8eac615.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.dropdown-item {\n  :hover {\n    cursor: pointer;\n  }\n}\n"]}
